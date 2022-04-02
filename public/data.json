@@ -1,0 +1,65 @@
+[
+    {
+      "id": "1",
+      "name": "Golpo Lekha Baron",
+      "price": 336,
+      "writer":"Mohaiminul Islam Bappi" ,
+      "picture": "https://i.pinimg.com/474x/a8/59/d8/a859d8718b0aa661b3a98f95b3d1b3b7.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pendulam",
+      "price": 196,
+      "writer": "Mohammad nazimUddin" ,
+      "picture": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481784082l/33390337._SY475_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Red Dragon",
+      "price": 239,
+      "writer": "Mohammad nazimUddin",
+      "picture": "https://d1jpltibqvso3j.cloudfront.net/images/product/54000/53507/250X360/53507.png"
+    },
+    {
+      "id": "4",
+      "name": "Rabindranath Ekhane Kokhono Khete Asenni",
+      "price": 241,
+      "writer": "Mohammad nazimUddin",
+      "picture": "https://1.bp.blogspot.com/-26ccxinU6fQ/XwiexLu1qUI/AAAAAAAAb-k/y6eyDKSE3Q4_p6fb4AjKPG9s0coNN41CACLcBGAsYHQ/s320/Rabindranath%2BEkahne%2BKokhono%2BAseni%2B-%2BPDF%2BBangla%2BBooks.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Confession",
+      "price": 274,
+      "writer": "Mohammad nazimUddin",
+      "picture": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364394884l/17696979.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Keu Keu Kotha Rakhe",
+      "price": 394,
+      "writer": "Mohammad nazimUddin",
+      "picture": "https://images-na.ssl-images-amazon.com/images/I/41CZvx8AikL._SX272_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Ful Lagle Cheye Niben",
+      "price": 325,
+      "writer": "Nosib Ponchom Jihadi",
+      "picture": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611890784l/56873921._SY475_.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Isshorer Mukhosh",
+      "price": 367,
+      "writer": "Zahid Hossain",
+      "picture": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425802770l/25097127.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Ventriloquest",
+      "price": 298,
+      "writer": "Mashudul Haque",
+      "picture": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388614019l/18633311._SX318_.jpg"
+    }
+  ]

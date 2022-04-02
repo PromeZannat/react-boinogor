@@ -1,0 +1,25 @@
+.shoppingCart{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top:0;
+}
+.cart-select{
+    color: green;
+    margin: 5px;
+    padding:0px 40px;
+    border-radius: 10px;
+}
+.cart-select:hover{
+    background-color: rgb(109, 241, 109);
+}
+.cart-delete{
+    color: blueviolet;
+    padding:0px 40px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.cart-delete:hover{
+    background-color: rgb(245, 112, 112);
+}

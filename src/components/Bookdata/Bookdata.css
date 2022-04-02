@@ -1,0 +1,21 @@
+.bookdata-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.books-container{
+    display: grid;
+    grid-template-columns:  repeat(3, 1fr);
+    gap: 40px;
+   margin-left: 40px;
+   margin-bottom: 40px;
+}
+@media screen and (max-width: 500px){
+    .books-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+.cart-container{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    
+}
